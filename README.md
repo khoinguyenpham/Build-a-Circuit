@@ -1,1 +1,1 @@
-# Build-a-Circuit
+# Build-a-Circuit: Build a circuit that contains two pushbuttons, an LED, and any other basic components you think you need. The LED should turn on when either the first button or the second button is pressed. Only use your Arduino for power and ground.
